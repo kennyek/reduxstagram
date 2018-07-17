@@ -1,7 +1,5 @@
 import React from 'react';
-import { Link, Route, Switch } from 'react-router';
-import PhotoGrid from './PhotoGrid';
-import Single from './Single';
+import { Link } from 'react-router';
 
 class Main extends React.Component {
   render() {
